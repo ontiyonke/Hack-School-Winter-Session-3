@@ -32,9 +32,26 @@ The project is for intermediate/advanced students. If you are feeling confident 
 complete the project without the skeleton, but it will be a lot easier to use it. We will be uploading the project solution later on, so if you haven't cracked it by then look at the solution to learn the correct implementation.
 
 ###Instructions
+The goal is to build a tic tac toe game with as little guidance as possible, so try to come up with unique solutions when you run into problems. You're being given lots of flexibility so implement, however you see fit: grading will be very generous. You should implement the two functions left blank in Main Activity and finish the xml file to add in the remaining UI. 
+
+#######dropIn function 
+* This function should be used to drop in image views when pressed
+* It should update the game state and active player
+* It should determine if somebody has won the game
+* If game is over it should display a dialog indicating winner
+* It should check for draws
+* Optional: Add in cool animation that causes tiles to fly in or fade in
+
+#######playAgain function 
+* Should reset game to initial state, and update all variables
+* It should hide dialog box
 
 ###Hints
-* Start with the xml layout. 
+* Start with the xml layout and add in missing image views for tiles
+* Look up creative uses for tags
+* Onclicklistener is not needed when the xml has it already defined
+* Linear Layouts can also be added using id in the code
+* layout.setVisibility(View.INVISIBLE) can set a view to be invisible
 
 ###End Product Goal
 ![](https://s3-us-west-1.amazonaws.com/acm-hack-ghost/2017/02/Tic-Tac-Toe_nexus5x-portrait--1-.png)
