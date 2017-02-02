@@ -12,11 +12,11 @@ Submissions will be due 1 week from the session, but we will accept late submiss
 ##Beginner Exercises
 
 ######Exercise 1:
-1. Attempt to create the following using relative layout
+1. Attempt to create the following using relative layout. You don't have to use these particular color choices.
 ![](https://s3-us-west-1.amazonaws.com/acm-hack-ghost/2017/02/Exercise-week-3-part-2_nexus5x-portrait--1-.png)
 
 ######Exercise 2:
-1. Attempt to create the following using linear layout
+1. Attempt to create the following using linear layout. You don't have to use these particular color choices.
 ![](https://s3-us-west-1.amazonaws.com/acm-hack-ghost/2017/02/Exercise-week-3_nexus5x-portrait.png)
 
 ######Exercise 3:
